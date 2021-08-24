@@ -1,2 +1,2 @@
 # TicTacToevsComputer
-#Algoritmo en C++ para jugar Tictactoe contra la computadora
+# Algoritmo en C++ para jugar Tictactoe contra la computadora
